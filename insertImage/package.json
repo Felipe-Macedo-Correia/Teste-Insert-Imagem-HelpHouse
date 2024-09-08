@@ -13,6 +13,7 @@
     "expo": "~51.0.28",
     "expo-file-system": "~17.0.1",
     "expo-image-picker": "~15.0.7",
+    "expo-module-scripts": "^3.5.2",
     "expo-status-bar": "~1.12.1",
     "firebase": "^10.13.1",
     "react": "18.2.0",

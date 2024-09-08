@@ -1,10 +1,10 @@
 import { View, StyleSheet, Text } from 'react-native';
 import React from 'react';
-
+import Upload from './src/index';
 const InserFoto = () => {
     return (
         <View style={styles.container}>
-            
+            <Upload/>
         </View>
     );
 };
